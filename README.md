@@ -9,4 +9,3 @@ Junto Com A Biblioteca Selenium.
 
 Caminho da Ferramenta Chrome() Deve Ser Colocada Na Pasta Do Windows...
 
-![ScreenShot_20221114011529](https://user-images.githubusercontent.com/118084762/201556820-252b8efc-178f-4c5c-a2b1-678bb87971b1.jpeg)
